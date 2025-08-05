@@ -5,7 +5,7 @@
 # C++ Custom Library with Crow API Support
 
 ### Author: Muhammad Ali Sajjad  
-### Internship: Intern Intelligence – Summer Internship Program  
+### Internship: Intern Intelligence â€“ Summer Internship Program  
 ### Project Title: Custom C++ Library for Data Structures, Algorithms, Math Utilities, and File Handling  
 
 ---
@@ -164,11 +164,8 @@ int main() {
 ##  License
 
 This project is open for educational and demonstration purposes.
-You can freely use and extend it under a permissive license (MIT or others – choose when publishing).
+You can freely use and extend it under a permissive license (MIT or others â€“ choose when publishing).
 
 ---
 
 ```
-
----
-
