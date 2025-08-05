@@ -1,7 +1,7 @@
 
 ---
 
-```md
+
 # C++ Custom Library with Crow API Support
 
 ### Author: Muhammad Ali Sajjad  
@@ -28,18 +28,19 @@ The project also includes an **API layer** built using the **Crow C++ micro web 
 
 ```
 
-??? Math.h
-??? Sorting.h
-??? Searching.h
-??? VectorArray.h
-??? FileHandling.h
-??? SinglyLL.h / DoublyLL.h
-??? Stack.h / Queue.h
-??? BST.h / AVL.h
-??? Graph.h
-??? API.h
-??? Testing.h
-??? main.cpp
+📁 Math.h  
+📁 Sorting.h  
+📁 Searching.h  
+📁 VectorArray.h  
+📁 FileHandling.h  
+📁 SinglyLL.h / DoublyLL.h  
+📁 Stack.h / Queue.h  
+📁 BST.h / AVL.h  
+📁 Graph.h  
+📁 API.h  
+📁 Testing.h  
+📁 main.cpp  
+
 
 ```
 
